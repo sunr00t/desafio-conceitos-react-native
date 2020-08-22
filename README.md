@@ -1,5 +1,5 @@
 # GoStack - RocketSeat
-### Conceitos Reac Native
+### Conceitos React Native
 
 [![Generic badge](https://img.shields.io/badge/Status-Approved!-<COLOR>.svg)](https://shields.io/)
 
